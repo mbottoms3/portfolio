@@ -2,7 +2,7 @@ import React from "react";
 import image1 from "../assets/f00000d.jpeg";
 import image2 from "../assets/blogSite.png";
 import image3 from "../assets/kissTheCook.png";
-import image4 from "../assets/JATE.png";
+import image4 from "../assets/tripSplit.png";
 
 function Projects() {
   return (
@@ -104,11 +104,11 @@ function Projects() {
               </a>
             </div>
 
-            <h3 className="text-xl">JATE</h3>
-            <p className="text-sm">A progressive web application</p>
+            <h3 className="text-xl">TripSplit</h3>
+            <p className="text-sm">A fullstack web app</p>
             <a
               className="text-sm text-blue-600"
-              href="https://github.com/mbottoms3/Text_Editor_App"
+              href="https://github.com/mbottoms3/trip_split"
               target="_blank"
             >
               Github Repository
