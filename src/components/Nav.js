@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 function Nav() {
   return (
     <div className="flex justify-between">
+      {/* Resume button */}
       <button className="px-12 mx-2 my-24 lg:px-20 lg:mx-8 rounded-full bg-light hover:shadow-xl">
         <a
           href={require("../assets/MicahBottomsResume22.pdf")}
@@ -13,6 +14,7 @@ function Nav() {
           Resume
         </a>
       </button>
+      {/* Navbar */}
       <nav className="py-4 mb-8 flex justify-between">
         <div className="bg-yellow-200 rounded-full py-20 mr-2 md:mr-6 lg:mr-8">
           <ul className="flex">

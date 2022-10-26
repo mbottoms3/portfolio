@@ -1,4 +1,6 @@
 import React from "react";
+
+// require icons
 import { AiFillGithub, AiFillLinkedin, AiOutlineMail } from "react-icons/ai";
 
 function Contact() {
@@ -7,6 +9,7 @@ function Contact() {
       <h3 className="text-4xl text-center mb-10">
         Find me with the links below!
       </h3>
+      {/* Container with icons/links */}
       <div id="contact" className="text-4xl flex justify-center gap-12 m-2">
         <a
           className="hover:shadow-md hover:shadow-black"
