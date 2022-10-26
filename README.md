@@ -17,6 +17,8 @@ This application displays my projects, a brief bio and links to contact me.
 
 The GitHub Repository can be found here: https://github.com/mbottoms3/portfolio
 
+The deployed site can be found here: https://mbottoms3.github.io/portfolio/
+
 ## Usage
 
 NA
