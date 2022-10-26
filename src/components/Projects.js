@@ -26,6 +26,7 @@ function Projects() {
                   width={"350px"}
                   height={"200px"}
                   src={image1}
+                  alt="Project Screenshot"
                 />
               </a>
             </div>
@@ -53,6 +54,7 @@ function Projects() {
                   width={"350px"}
                   height={"200px"}
                   src={image2}
+                  alt="Project Screenshot"
                 />
               </a>
             </div>
@@ -76,6 +78,7 @@ function Projects() {
                   width={"350px"}
                   height={"200px"}
                   src={image3}
+                  alt="Project Screenshot"
                 />
               </a>
             </div>
@@ -100,6 +103,7 @@ function Projects() {
                   width={"350px"}
                   height={"200px"}
                   src={image4}
+                  alt="Project Screenshot"
                 />
               </a>
             </div>

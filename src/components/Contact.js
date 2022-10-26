@@ -1,4 +1,5 @@
 import React from "react";
+import { AiFillGithub, AiFillLinkedin, AiOutlineMail } from "react-icons/ai";
 
 function Contact() {
   return (
@@ -12,7 +13,7 @@ function Contact() {
           href="https://www.linkedin.com/in/micah-bottoms-09a096246/"
           target="_blank"
         >
-          {/* <AiFillLinkedin /> */}
+          <AiFillLinkedin />
         </a>
 
         <a
@@ -20,14 +21,14 @@ function Contact() {
           href="https://github.com/mbottoms3"
           target="_blank"
         >
-          {/* <AiFillGithub /> */}
+          <AiFillGithub />
         </a>
 
         <a
           className="hover:shadow-md hover:shadow-black"
           href="mailto: bottoms.micah.3@gmail.com"
         >
-          {/* <AiOutlineMail /> */}
+          <AiOutlineMail />
         </a>
       </div>
     </div>

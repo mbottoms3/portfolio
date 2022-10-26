@@ -3,7 +3,7 @@ import image5 from "../assets/micah.jpg";
 
 function Bio() {
   return (
-    <div id="bio" className="text-center mt-16 mx-2 lg:mx-48">
+    <div id="bio" className="text-center mt-16 mx-2 lg:mx-48 pb-8">
       <h3 className="text-4xl mb-6">About Me</h3>
       {/* Image Div */}
       <div className="mx-2 md:px-2">
@@ -13,6 +13,7 @@ function Bio() {
             width={"230px"}
             height={"320px"}
             src={image5}
+            alt="Micah Bottoms headshot"
           />
         </div>
       </div>
