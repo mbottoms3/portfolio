@@ -6,7 +6,7 @@ import image4 from "../assets/tripSplit.png";
 
 function Projects() {
   return (
-    <div>
+    <div className="bg-gradient-to-b from-light to-skyBlue pb-8">
       <div id="projects">
         <h3 className="text-center text-4xl mb-4">Projects</h3>
         <p className="text-center mb-6">
